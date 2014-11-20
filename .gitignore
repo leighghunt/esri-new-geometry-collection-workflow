@@ -1,2 +1,4 @@
 /*.suo
-/GeomDemo/GeomDemo_WM/*.user
+*.user
+bin
+obj
