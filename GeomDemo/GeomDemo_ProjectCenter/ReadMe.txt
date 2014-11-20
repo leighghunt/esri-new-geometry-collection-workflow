@@ -59,8 +59,13 @@ http://www.arcgis.com/home/item.html?id=3c34fa18e5274b26827a2e4ea306b17c.
 
 Additional steps:
 
-Update GeomDemo_Win project Debug properties to start external program: c:\Program Files (x86)\ArcGIS\Mobile10.2\bin\ArcGISMobile.exe
-
+- Update GeomDemo_Win project Debug properties to start external program: c:\Program Files (x86)\ArcGIS\Mobile10.2\bin\ArcGISMobile.exe
+- Copy binaries from GeomDemo\GeomDemo_ProjectCenter\bin\Debug -> C:\ProgramData\ESRI\MobileProjectCenter\Extensions
+- Start Mobile Project Centre 
+- New Project
+  - Select Tasks in left hand pane
+  - Click Add, and select new task - identified by m_displayName in xaml.cs file in GeomDemo_ProjectCentre project
+- ArcGIS Mobile -> View and Manage Settings -> Application Settings -> Add project folder containing .amp file.
 
 
 

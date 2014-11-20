@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ESRI_ItemInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <guid>34cf130e-4233-4949-bcad-60e9b0590579</guid>
+  <title>GeomDemo_Mobile_Project</title>
+  <type>Windows Mobile Package</type>
+  <typekeywords>
+    <typekeyword>ArcGIS Windows Mobile Package</typekeyword>
+    <typekeyword>ArcGIS Windows Mobile Map</typekeyword>
+    <typekeyword>ArcGIS Windows Mobile</typekeyword>
+    <typekeyword>wmpk</typekeyword>
+  </typekeywords>
+  <datalastmodifiedtime>2014-11-21T12:17:24.7023034+13:00</datalastmodifiedtime>
+  <itemid />
+  <tags />
+</ESRI_ItemInformation>
