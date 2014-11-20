@@ -57,7 +57,9 @@ http://www.arcgis.com/home/item.html?id=3c34fa18e5274b26827a2e4ea306b17c.
 
 
 
+Additional steps:
 
+Update GeomDemo_Win project Debug properties to start external program: c:\Program Files (x86)\ArcGIS\Mobile10.2\bin\ArcGISMobile.exe
 
 
 

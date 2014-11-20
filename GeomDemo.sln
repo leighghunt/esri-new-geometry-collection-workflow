@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomDemo_WM", "GeomDemo\GeomDemo_WM\GeomDemo_WM.csproj", "{BA02BE35-36B3-4994-A1A0-0E7C04E75980}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomDemo_Win", "GeomDemo\GeomDemo_Win\GeomDemo_Win.csproj", "{ACF297B3-89B5-4B51-AEBE-71A0D9190520}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomDemo_ProjectCenter", "GeomDemo\GeomDemo_ProjectCenter\GeomDemo_ProjectCenter.csproj", "{DD6C14EF-4500-4395-B53F-265172CE6FE9}"
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BA02BE35-36B3-4994-A1A0-0E7C04E75980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA02BE35-36B3-4994-A1A0-0E7C04E75980}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA02BE35-36B3-4994-A1A0-0E7C04E75980}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA02BE35-36B3-4994-A1A0-0E7C04E75980}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ACF297B3-89B5-4B51-AEBE-71A0D9190520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ACF297B3-89B5-4B51-AEBE-71A0D9190520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF297B3-89B5-4B51-AEBE-71A0D9190520}.Release|Any CPU.ActiveCfg = Release|Any CPU
