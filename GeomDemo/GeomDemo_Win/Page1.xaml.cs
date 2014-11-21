@@ -24,7 +24,7 @@ namespace GeomDemo
         {
             InitializeComponent();
             //title
-            this.Title = "GeomDemoClass";
+            this.Title = "Geometry Demo";
             //Note
             this.Note = "Page Note";
 
