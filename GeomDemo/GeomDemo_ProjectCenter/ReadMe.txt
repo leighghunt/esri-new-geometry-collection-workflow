@@ -67,10 +67,4 @@ Additional steps:
   - Click Add, and select new task - identified by m_displayName in xaml.cs file in GeomDemo_ProjectCentre project
   - Ensure task name is the same in both ProjectCentre project and Win project
 - ArcGIS Mobile -> View and Manage Settings -> Application Settings -> Add project folder containing .amp file.
-
-
-
-
-
-
-
+- For rebuilds not affecting signatures of DLLs, set output location for xxx_win project to the \extensions\win32 folder under the folder containing the .amp file.
