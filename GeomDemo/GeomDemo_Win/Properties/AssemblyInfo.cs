@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GeomDemo_Win")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ESRI")]
+[assembly: AssemblyCompany("GPS-it Limited")]
 [assembly: AssemblyProduct("GeomDemo_Win")]
-[assembly: AssemblyCopyright("Copyright © ESRI 2009")]
+[assembly: AssemblyCopyright("Copyright © GPS-it Limited 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
