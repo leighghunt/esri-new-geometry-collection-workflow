@@ -33,7 +33,7 @@ namespace GeomDemo
         public GeomDemoClass()
         {
             //Name
-            Name = "Geometry Demo";
+            Name = "GeomDemoClass";
             //Description
             Description = "Task description";
         }

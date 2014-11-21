@@ -20,7 +20,7 @@ namespace GeomDemo
     public partial class GeomDemoClass : ProjectTaskControl
     {
         // TODO: Set DisplayName
-        private string m_displayName = "Geometry Demo";
+        private string m_displayName = "GeomDemoClass";
 
         // TODO: Always update constructor name if you change task name
         public GeomDemoClass()
